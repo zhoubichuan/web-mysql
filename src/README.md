@@ -17,7 +17,7 @@ meta:
             <div class="features">
         <div class="feature">
           <h2>mysql项目的工程化</h2> 
-          <p>掌握mysql组件间的多种通信方式及数据同步 渲染函数及jsx高阶应用 mysql-cli3、mysqlx、mysql-router</p>
+          <p>掌握mysql组件间的多种通信方式及数据同步 渲染函数及jsx高阶应用 mysql</p>
         </div>
         <div class="feature">
           <h2>mysql项目功能模块</h2> 
@@ -30,14 +30,6 @@ meta:
         <div class="feature">
           <h2>mysql优化和服务器布署</h2> 
           <p>mysql优化预渲染、骨架屏、Nuxt.js服务端渲染 使用typescript构建mysql应用 mysql + mysql实现mysql的布署和持续集成</p>
-        </div>
-        <div class="feature">
-          <h2>mysql2.0源码实现</h2> 
-          <p>mysql/cli原理、mysql2.0原理剖析、mysql-router原理剖析、mysqlx原理剖析 </p>
-        </div>
-        <div class="feature">
-          <h2>mysql3.0源码实现</h2> 
-          <p>mysql/cli原理、mysql3.0原理剖析、mysql-router、mysqlx源码实现</p>
         </div>
       </div>
     </div>
