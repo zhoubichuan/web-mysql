@@ -1,11 +1,11 @@
 module.exports = {
   // 基础配置
-  base: '/Web-Nginx/', // 部署站点的基础路径
-  description: 'Nginx相关知识点',
+  base: '/Web-MySql/', // 部署站点的基础路径
+  description: 'MySql相关知识点',
   locales: {
     // 默认标题
     '/': {
-      title: 'Nginx笔记',
+      title: 'MySql笔记',
       description: ''
     }
   },
@@ -60,12 +60,12 @@ module.exports = {
         nav: [{
           text: '基础知识',
           items: [{
-            text: '1.Nginx实践指南',
+            text: '1.mysql实践指南',
             link: '/base/build/1.config'
           },
           {
-            text: '2.Nginx相关实践',
-            link: '/base/practice/1.Nginx',
+            text: '2.mysql相关实践',
+            link: '/base/practice/1.mysql',
           }
           ]
         },
@@ -99,7 +99,7 @@ module.exports = {
             '14.data',
             '15.api'
           ],
-          '/base/practice/': ['1.Nginx', '2.Jenkins', '3.gitlab', 'vscode', 'test', 'prem', 'i18n'],
+          '/base/practice/': ['1.mysql', '2.Jenkins', '3.gitlab', 'vscode', 'test', 'prem', 'i18n'],
           '/senior/use/': ['1.recursionAndDynamics', '2.extend', '3.componentCommunication', '4.render', '5.api', '6.form', '7.checkBox', '8.active', '9.alert', '10.table', '11.tree'],
         }
       }

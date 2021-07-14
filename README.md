@@ -1,3 +1,3 @@
-### Nginx 学习笔记
+### mysql 学习笔记
 
-> Nginx 相关笔记
+> mysql 相关笔记
