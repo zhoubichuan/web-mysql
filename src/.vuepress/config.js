@@ -1,6 +1,6 @@
 module.exports = {
   // 基础配置
-  base: '/Web-MySql/', // 部署站点的基础路径
+  base: '/web-mysql/', // 部署站点的基础路径
   description: 'MySql相关知识点',
   locales: {
     // 默认标题
