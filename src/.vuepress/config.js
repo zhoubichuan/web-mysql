@@ -70,14 +70,14 @@ module.exports = {
           ]
         },
         {
-          text: '高级知识',
+          text: '项目实战',
           items: [{
-            text: '1.组件精讲',
+            text: '1.初级项目',
             link: '/senior/use/1.recursionAndDynamics'
           },
           {
-            text: '2.TypeScript',
-            link: '/senior/typeScript/inde'
+            text: '2.高级项目',
+            link: '/senior/typeScript/1.index'
           },
           ]
         }
@@ -99,8 +99,42 @@ module.exports = {
             '14.data',
             '15.api'
           ],
-          '/base/practice/': ['1.mysql', '2.Jenkins', '3.gitlab', 'vscode', 'test', 'prem', 'i18n'],
-          '/senior/use/': ['1.recursionAndDynamics', '2.extend', '3.componentCommunication', '4.render', '5.api', '6.form', '7.checkBox', '8.active', '9.alert', '10.table', '11.tree'],
+          '/base/practice/': [
+            '1.mysql',
+            '2.Jenkins',
+            '3.gitlab',
+            'vscode',
+            'test',
+            'prem',
+            'i18n'
+          ],
+          '/senior/use/': [
+            '1.recursionAndDynamics',
+            '2.extend',
+            '3.componentCommunication',
+            '4.render',
+            '5.api',
+            '6.form',
+            '7.checkBox',
+            '8.active',
+            '9.alert',
+            '10.table',
+            '11.tree'
+          ],
+          '/senior/typeScript/': [
+            '1.index',
+            '1.recursionAndDynamics',
+            '2.extend',
+            '3.componentCommunication',
+            '4.render',
+            '5.api',
+            '6.form',
+            '7.checkBox',
+            '8.active',
+            '9.alert',
+            '10.table',
+            '11.tree'
+          ],
         }
       }
     }
