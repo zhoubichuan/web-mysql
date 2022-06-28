@@ -3,7 +3,7 @@ module.exports = {
   description: 'MySql相关知识点',
   base: '/web-mysql/', // 部署站点的基础路径
   port: 3010,
-  dest: 'dist', // 指定 vuepress 的输出目录
+  dest: 'web-mysql', // 指定 vuepress 的输出目录
   markdown: {
     lineNumbers: true // 代码块显示行号
   },
