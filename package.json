@@ -1,10 +1,10 @@
 {
-  "name": "web-vue",
+  "name": "web-mysql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "zhoubichaun@icloud.com",
-  "hommepage": "https://github.com/zhoubichuan/web-vue/",
+  "hommepage": "https://github.com/zhoubichuan/web-mysql/",
   "private": true,
   "license": "MIT",
   "scripts": {
