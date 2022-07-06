@@ -1,5 +1,5 @@
 module.exports = {
-  // 基础配置
+  title: 'MySql学习笔记',
   description: 'MySql相关知识点',
   base: '/web-mysql/', // 部署站点的基础路径
   port: 3010,
