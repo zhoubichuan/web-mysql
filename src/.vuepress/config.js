@@ -45,30 +45,32 @@ module.exports = {
     editLinkText: '在github上编辑此页',
     sidebarDepth: 2,
     lastUpdated: '上次更新', // 获取每个文件最后一次 git 提交的时间戳
-    nav: [{
-      text: '基础知识',
-      items: [{
-        text: '1.mysql实践指南',
-        link: '/base/build/1.config'
+    nav: [
+      {
+        text: '初级知识',
+        items: [
+          {
+            text: '1.MySql基础',
+            link: '/base/build/1.config'
+          },
+          {
+            text: '2.MySql案例',
+            link: '/base/practice/1.mysql',
+          }
+        ]
       },
       {
-        text: '2.mysql相关实践',
-        link: '/base/practice/1.mysql',
+        text: '项目实战',
+        items: [{
+          text: '1.初级项目',
+          link: '/senior/use/1.recursionAndDynamics'
+        },
+        {
+          text: '2.高级项目',
+          link: '/senior/typeScript/1.index'
+        },
+        ]
       }
-      ]
-    },
-    {
-      text: '项目实战',
-      items: [{
-        text: '1.初级项目',
-        link: '/senior/use/1.recursionAndDynamics'
-      },
-      {
-        text: '2.高级项目',
-        link: '/senior/typeScript/1.index'
-      },
-      ]
-    }
     ],
     sidebar: {
       '/base/build/': [
