@@ -1,3 +1,4 @@
+const path = require("path");
 module.exports = {
   title: 'MySql学习笔记',
   description: 'MySql相关知识点',
@@ -6,6 +7,9 @@ module.exports = {
   dest: 'web-mysql', // 指定 vuepress 的输出目录
   markdown: {
     lineNumbers: true // 代码块显示行号
+  },
+  alias: {
+    "common-node": path.resolve(__dirname, "../../common-node/"),
   },
   plugins: {
     'demo-container': true,
