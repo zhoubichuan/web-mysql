@@ -54,11 +54,11 @@ module.exports = {
         text: '初级知识',
         items: [
           {
-            text: '1.MySql基础',
+            text: '1.基础知识',
             link: '/base/build/1.config'
           },
           {
-            text: '2.MySql案例',
+            text: '2.简单案例',
             link: '/base/practice/1.mysql',
           }
         ]
